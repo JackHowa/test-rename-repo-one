@@ -1,7 +1,7 @@
 # test-rename-repo-two
 Testing thesis of renaming repos 
 
-Go to https://github.com/JackHowa/test-rename-repo-one and you should be redirected here to https://github.com/JackHowa/test-rename-repo-two
+Go to https://github.com/JackHowa/test-rename-repo-one and you should be redirected here to https://github.com/JackHowa/test-rename-repo-two. This repo was originally named test-rename-repo-one.
 
 https://github.com/JackHowa/test-rename-repo-two should still direct you here
 
