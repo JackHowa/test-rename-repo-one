@@ -3,7 +3,7 @@ Testing thesis of renaming repos
 
 Go to https://github.com/JackHowa/test-rename-repo-one and you should be redirected here to https://github.com/JackHowa/test-rename-repo-two
 
-https://github.com/JackHowa/test-rename-repo-two should still redirect here
+https://github.com/JackHowa/test-rename-repo-two should still direct you here
 
 via https://docs.github.com/en/repositories/creating-and-managing-repositories/renaming-a-repository
 
